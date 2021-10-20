@@ -12,6 +12,12 @@ li {
     text-align: center;
 }
 
+.my-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
 .my-item {
     width: 200px;
     height: 150px;
